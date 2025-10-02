@@ -640,6 +640,8 @@ const BasicInfo = () => {
       `}</style>
     </div>
   );
+
+
 };
 
 export default BasicInfo;
