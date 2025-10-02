@@ -7,9 +7,10 @@
 - Local gamification logic using localStorage (demo)
 
 ## Run
-1. npm install
-2. npm run dev
-3. Open http://localhost:5173
+1. cd youmatter-hack
+2. npm install
+3. npm run dev
+4. Open http://localhost:5173
 
 ## What to build next
 - Add Onboarding, Predictive suggestions (mock AI), Community pages, analytics dashboards
